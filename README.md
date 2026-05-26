@@ -51,3 +51,4 @@ Prepared observations from the graphical analysis.
 Wrote conclusions about visualization effectiveness.
 25 May
 Completed README documentation and finalized the project report.
+https://docs.google.com/spreadsheets/d/1UomZrb5JTCH77vimszNmduBEzRa-laqa6Qj3xLdsWiA/edit?usp=drivesdk
